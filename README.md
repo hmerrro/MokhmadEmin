@@ -3,8 +3,6 @@ My name is MokhmadEmin, and my hobbie is programming.
 I am a fullstack developer.  
 I've been in IT since 2022.
 
-![hmerrro](https://github-readme-stats.vercel.app/api/top-langs?username=hmerrro&show_icons=true&theme=tokyonight&layout=compact)
-
 ### Skills:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django)
